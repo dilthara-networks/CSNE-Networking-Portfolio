@@ -1,51 +1,54 @@
 # CSNE Networking Portfolio
 
-Welcome to my GitHub portfolio!
+Welcome to my technical portfolio!
 
-I am a Computer Systems and Network Engineering (CSNE) undergraduate at SLIIT, interested in Network Engineering, Linux System Administration, Cloud Computing, and DevOps.
+I am a Computer Systems and Network Engineering (CSNE) undergraduate at SLIIT, passionate about Network Engineering, Cloud Computing, Virtualization, Linux System Administration, and DevOps.
 
-This repository serves as a collection of my academic projects, practical implementations, and technical learning journey.
+This repository serves as a central collection of my academic projects, practical implementations, and technical development.
 
 ## About Me
 
 - Computer Systems and Network Engineering Undergraduate
-- Interested in Network Engineering and System Administration
-- Learning Linux, Networking, Cloud Computing, and DevOps
-- Passionate about developing practical technical skills
+- Interested in Network Engineering and Cloud Infrastructure
+- Exploring Linux System Administration and DevOps
+- Focused on developing practical technical skills through projects
 
-## Technical Interests
+## Technical Projects
+
+### 1. Virtualization & Cloud Computing
+[IE3100 – Virtualization & Cloud Computing](https://github.com/dilthara-networks/IE3100-Virtualization-Cloud-Computing)
+
+### 2. Remote System Monitoring
+[RemoteOps – System Monitoring](https://github.com/dilthara-networks/RemoteOps-System-Monitoring)
+
+### 3. Enterprise Network Design
+[Behpaya – Enterprise Network Design](https://github.com/dilthara-networks/behpaya-enterprise-network-design)
+
+### 4. Laundry Management System
+[Laundry Management System](https://github.com/dilthara-networks/Laundry-Management-System)
+
+### 5. Greenhouse Monitoring System
+[Greenhouse Monitoring System](https://github.com/dilthara-networks/Green-House-Monitoring-System)
+
+### 6. Network Management & Administration
+[Network Management & Administration Project](https://github.com/dilthara-networks/Network-Management-Administration-Project)
+
+## Areas of Interest
 
 - Computer Networking
+- Enterprise Network Design
 - Linux System Administration
-- Network Management
-- Server Administration
 - Virtualization
 - Cloud Computing
-- DevOps
+- System Monitoring
+- DevOps and Infrastructure Automation
 
-## Projects
+## Career Objective
 
-### 1. Network Management & Administration Project
+My goal is to develop a strong foundation in networking, cloud infrastructure, and automation while gaining practical industry experience through internships and technical projects.
 
-An academic project involving a virtualized Linux network environment using CentOS 7, Ubuntu, and Oracle VirtualBox.
+I continuously explore new technologies and build practical projects to improve my engineering skills.
 
-**Implemented Services:**
-- DHCP Server
-- DNS Server (BIND)
-- Zimbra Mail Server
-- Samba Active Directory
-- Apache Web Server
+---
 
-**Project Documentation:**
-
-[View Project on GitHub](https://github.com/dilthara-networks/Network-Management-Administration-Project)
-
-## Learning Journey
-
-I am continuously improving my technical knowledge through academic coursework, practical laboratory exercises, and personal projects.
-
-More projects and technical implementations will be added as I progress.
-
-## Career Goal
-
-My goal is to build a career in Network Engineering, Cloud Computing, and DevOps, while continuously developing the skills required to become a skilled Cloud and Infrastructure Engineer.
+**Thank you for visiting my portfolio!**
